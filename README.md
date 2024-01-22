@@ -10,12 +10,11 @@
 <h1 align="center">掩日 - 适用于红队的综合免杀工具</h1>
 
 
-## 声明
+## Disclaimer
 
-1. 仅限用于技术研究和获得正式授权的测试活动！
-2. 工作繁忙、水平低下、精力有限、时间仓促，代码未经过大量测试，如发现问题请提交 issue。
-3. 主程序已被部分杀软标记，请添加到杀软白名单。
-4. 测试的CS版本为4.4，测试的系统版本为Windows 10/11、Server 2008，其他版本自行测试。
+###This tool is intended for technical research andauthorized testing activities only. The code has not undergone extensive testing due to heavy workloads, limited expertise, and time constraints. If any issues are found, please submit an issue.
+
+####The main program has been partially flagged by some antivirus software, so it is recommended to add it to the antivirus whitelist. The tool is tested on Cobalt Strike version 4.4 and Windows 10/11, Server 2008. It is advised to conduct testing on other versions as well.
 
 
 ## 下载
